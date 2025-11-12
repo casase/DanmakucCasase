@@ -76,4 +76,4 @@ Snapshots of the development version are available in [Sonatype's snapshots repo
 [2]:https://oss.sonatype.org/content/repositories/snapshots/
 
 ### Pixel
-Phoenixcycletest-phl-apinotfyinformationnotccIcarus
+PhoenixcycleapinotcasheasenottopIcarus
